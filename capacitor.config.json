@@ -1,0 +1,10 @@
+{
+  "appId": "com.musicplayer.app",
+  "appName": "Music Player",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
